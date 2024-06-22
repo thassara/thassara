@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Madthassara
+### 👋 Hi, I’m MadThassara
 
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning IT
